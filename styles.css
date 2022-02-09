@@ -1,0 +1,37 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#residents-button {
+    height: 30px;
+    width: 150px;
+
+    background-color: #8dfa8d;
+    border: 1px, black, solid;
+    border-radius: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
